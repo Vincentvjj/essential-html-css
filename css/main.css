@@ -16,7 +16,7 @@ a:link, a:visited {
 	text-decoration: none;
 }
 
-a:hover, input:focus {
+a:hover, a:focus {
 	color: #0000EE;
 }
 
